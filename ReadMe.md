@@ -3,7 +3,6 @@
 ## About Me
 I'm a Data Storyteller passionate about bridging the gap between technical analysis and business impact. My journey began with simulating and modeling electrical systems, where I discovered the power of data to transform complex information into strategic insights. With professional experience at Deloitte and academic enrichment at Northeastern University, I've developed a robust toolkit for tackling data challenges across industries.
 
-- 🔭 Currently working on data pipeline optimization and cloud migration projects
 - 🌱 Learning advanced MLOps techniques and real-time analytics frameworks
 - 💬 Ask me about data warehousing, ETL processes, and dashboard development
 - ⚡ Fun fact: When not diving into data, I'm planning my first actual dive... from a plane! Skydiving is next on my adventure list.
